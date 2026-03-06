@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import products from '../data/products.json';
+import MenuCard from '../components/MenuCard';
 import '../styles/main.css';
 
 function Menu() {
@@ -88,24 +89,7 @@ function Menu() {
         <div className="menu-grid">
           {currentProducts.length > 0 ? (
             currentProducts.map((product) => (
-              <div key={product.id} className="menu-card">
-                <img src={product.image} alt={product.name} className="menu-img" />
-                <div className="card-content">
-                  <h3>{product.name}</h3>
-                  <p className="desc">{product.description}</p>
-                  <p className="price">₱{product.price}</p>
-                  
-                  <a
-                    href={`https://m.me/61586874489598?text=${encodeURIComponent(`Hello! I would like to order the ${product.name}`)}`}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="order-btn"
-                    style={{ marginTop: 'auto' }}
-                  >
-                    Order Now
-                  </a>
-                </div>
-              </div>
+              <MenuCard key={product.id} product={product} />
             ))
           ) : (
             <p style={{ textAlign: 'center', gridColumn: '1/-1', padding: '2rem' }}>

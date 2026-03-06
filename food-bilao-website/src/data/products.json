@@ -5,7 +5,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 850,
     "image": "/images/bilao4.png",
-    "description": "Rice, grilled chicken, mixed vegetables, special sauce."
+    "description": "Crispy, golen-brown on the outside and perfectly juicy in the inside.Served with gravy.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 2,
@@ -13,7 +18,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1200,
     "image": "/images/bilao6.png",
-    "description": "Shrimp, squid, fish, garlic butter rice and lemon."
+    "description": "A beloved Filipino stir-fry made with mung bean glass noodles, mixed with fresh vegetables like carrots, cabbage, and bell peppers, along with savory meats.",
+    "sizes": [
+      { "size": "Medium", "price": 450 },
+      { "size": "Large", "price": 650 }
+    ]
   },
   {
     "id": 3,
@@ -21,7 +30,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1500,
     "image": "/images/bilao1.png",
-    "description": "The ultimate mix! Good for 15-20 pax."
+    "description": "A hearty noodle dish featuring a delicious combination of both canton and bihon noodles, loaded with savory meats and fresh veggies.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 4,
@@ -29,7 +43,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price":600,
     "image": "/images/bilao7.png",
-    "description":"The ultimate mix! Good for 15-20 pax."
+    "description":"Golden crispy-fried fish slices served lightly battered and incredibly tender inside.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 5,
@@ -37,7 +56,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1800,
     "image": "/images/bilao8.png",
-    "description": "Shrimp, squid, fish, garlic butter rice and lemon."   
+    "description": "Tender, boneless chicken breast strips fried to a perfect golden crisp.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 6,
@@ -45,7 +69,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 900,
     "image": "/images/bilao9.png",
-    "description": "A healthy mix of fresh vegetables and tofu."
+    "description": "Crispy breaded chicken breast rolled with savory ham and warm, melted cheese.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 7,
@@ -53,7 +82,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1300,
     "image": "/images/bilao5.png",
-    "description": "Crispy pork belly served with rice and dipping sauce."
+    "description": "Fun, meaty pork cuts playfully shaped, seasoned, filled with cheese, and deep fried to perfection.",
+    "sizes": [
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 8,
@@ -61,7 +94,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1100,
     "image": "/images/bilao18.png",
-    "description": "Tender pork in sweet and sour sauce with rice."
+    "description": "A savory, deep-fried pork specialty with a signature crunch that keeps people coming back for more.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 9,
@@ -69,7 +107,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1400,
     "image": "/images/bilao2.png",
-    "description": "Marinated beef tapa served with garlic rice and egg."
+    "description": "Plump, fresh shrimp sauteed in a rich, savory, and garlicky butter sauce.",
+    "sizes": [
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 10,
@@ -77,7 +119,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1000,
     "image": "/images/bilao10.png",
-    "description": "Classic chicken adobo served with rice."
+    "description": "Crispy, bite golden spring rolls packed with savory ground pork.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 11,
@@ -85,7 +132,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1250,
     "image": "/images/bilao11.png",
-    "description": "Sour tamarind soup with pork and vegetables, served with rice."
+    "description": "Fresh, crunchy mixed vegetables wrapped and fried to a perfect golden crunch.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 12,
@@ -93,7 +145,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 2000,
     "image": "/images/bilao12.png",
-    "description": "Assorted grilled seafood with rice and dipping sauces."
+    "description": "Slow-cooked, melt-in-your-mouth pork belly bathed in a rich, sweet, and savory soy-glaze.",
+    "sizes": [
+      { "size": "Small(1 kg)", "price": 450 },
+      { "size": "Large(2 kg)", "price": 900 }
+    ]
   },
   {
     "id": 13,
@@ -101,7 +157,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 2200,
     "image": "/images/bilao15.png",
-    "description": "A variety of grilled meats and seafood served with rice."
+    "description": "Crispy meat chunks coated in a vibrant, tangy, and sweet sauce with fresh bell peppers, carrots and pineapples.",
+    "sizes": [
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 14,
@@ -109,7 +169,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 2500,
     "image": "/images/bilao16.png",
-    "description": "A grand platter with a mix of our best dishes, perfect for celebrations."
+    "description": "Freshly fried fish drenched in a vibrant, sweet and tangy suace with colorful julienned vegetables",
+    "sizes": [
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 15,
@@ -117,7 +181,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 950,
     "image": "/images/bilao17.png",
-    "description": "A delightful mix of vegetarian dishes served with rice."
+    "description": "A comforting classic of tender pork, potatoes, and carrots simmered in a rich tomato sauce.",
+    "sizes": [
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 16,
@@ -125,7 +193,12 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1600,
     "image": "/images/bilao13.png",
-    "description": "A traditional mix of Filipino favorites served with rice."
+    "description": "Savory, perfectly seasoned ground pork bites served in a rich and flavorful sauce.",
+    "sizes": [
+      { "size": "Small", "price": 300 },
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 17,
@@ -133,7 +206,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 1900,
     "image": "/images/bilao3.png",
-    "description": "A spicy mix of seafood dishes served with rice."
+    "description": "A colorful, healthy medley of fresh, crisp vegetables stir-friend in a savory thickened sauce.",
+    "sizes": [
+      { "size": "Medium", "price": 400 },
+      { "size": "Large", "price": 600 }
+    ]
   },
   {
     "id": 18,
@@ -141,7 +218,11 @@
     "category": "Viand(Sud-an) Bilao",
     "price": 3000,
     "image": "/images/bilao14.png",
-    "description": "A large bilao perfect for family gatherings, includes a variety of dishes."
+    "description": "Classic sweet-style Filipino spaghetti with a rich, meaty tomato sauce, and plenty og grated cheese.",
+    "sizes": [
+      { "size": "Medium", "price": 300 },
+      { "size": "Large", "price": 500 }
+    ]
   },
   {
     "id": 19,
