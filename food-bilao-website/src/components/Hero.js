@@ -5,7 +5,7 @@ function Hero() {
     <div 
       className="hero" 
       style={{ 
-        backgroundImage: "url('/images/bilao1.png')",
+        backgroundImage: "url('/images/cover1.png')",
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         minHeight: '70vh', 

@@ -364,7 +364,6 @@ form button {
 .about-content p,
 .contact-content p {
   text-align: justify;
-  color: var(--text-light);
   margin-bottom: 1.5rem;
   line-height: 1.8;
 }
